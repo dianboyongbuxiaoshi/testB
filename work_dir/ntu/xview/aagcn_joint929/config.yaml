@@ -1,0 +1,56 @@
+base_lr: 0.1
+batch_size: 32
+config: ./config/nturgbd-cross-view/train_joint.yaml
+device:
+- 0
+- 1
+- 2
+- 3
+eval_interval: 5
+feeder: feeders.feeder.Feeder
+ignore_weights: []
+log_interval: 100
+model: model.aagcn.Model
+model_args:
+  graph: graph.uav.Graph
+  graph_args:
+    labeling_mode: spatial
+  num_class: 155
+  num_person: 2
+  num_point: 17
+model_saved_name: ./runs/ntu_cv_aagcn_joint929
+nesterov: true
+num_epoch: 50
+num_worker: 0
+only_train_epoch: 0
+only_train_part: false
+optimizer: SGD
+phase: train
+print_log: true
+save_interval: 1
+save_score: false
+seed: 1
+show_topk:
+- 1
+- 5
+start_epoch: 0
+step:
+- 30
+- 40
+test_batch_size: 64
+test_feeder_args:
+  data_path: ./data/ntu/xview/test_A_joint.npy
+  label_path: ./data/ntu/xview/test_label_A.npy
+train_feeder_args:
+  data_path: ./data/ntu/xview/train_joint.npy
+  debug: false
+  label_path: ./data/ntu/xview/train_label.npy
+  normalization: false
+  random_choose: false
+  random_move: false
+  random_shift: false
+  window_size: -1
+warm_up_epoch: 0
+weight_decay: 0.0001
+weights: null
+work_dir: ./work_dir/ntu/xview/aagcn_joint929

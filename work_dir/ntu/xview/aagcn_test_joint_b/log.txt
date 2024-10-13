@@ -1,0 +1,36 @@
+[ Sun Oct 13 10:30:45 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 10:30:45 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 10:32:10 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 10:32:11 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 10:58:50 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 10:58:51 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 10:59:34 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 10:59:35 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:00:07 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:00:08 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:00:28 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:00:28 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:06:38 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:06:38 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:06:57 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:06:57 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:08:53 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:08:53 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:09:24 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:09:25 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:09:59 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:09:59 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:18:15 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:18:15 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:18:39 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:18:39 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:19:50 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:19:51 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:21:33 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:21:34 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:21:55 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:21:56 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:31:16 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:31:17 2024 ] using warm up, epoch: 0
+[ Sun Oct 13 11:43:26 2024 ] Load weights from ./runs/ntu_cv_aagcn_joint929-31-16416.pt.
+[ Sun Oct 13 11:43:27 2024 ] using warm up, epoch: 0
